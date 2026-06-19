@@ -50,3 +50,5 @@ The `inferencе_all_sets.py` profiling logic reports the following metrics:
 - `Mean/Max/Min peak GPU memory`: peak additional GPU memory used during the seq2seq layer execution, reported in MB and GB.
 
 The GPU peak memory metric is focused on the seq2seq stage only, not the full process memory footprint. The latency metrics are derived from seq2seq timing and are most meaningful when running with batch size 1, as in the current inference evaluation setup.
+
+Although this is a newer version of an existing private repo, big thanks to Federico Costa for helping me develop this project.
