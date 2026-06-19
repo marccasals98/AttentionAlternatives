@@ -1,4 +1,5 @@
-# SER2025
+# AttentionAlternatives
+
 This repository is based on an INTERSPEECH Speech Emotion Recognition Challenge, where we placed 7th.
 
 ## Using `uv` in this project
