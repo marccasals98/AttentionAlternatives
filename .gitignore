@@ -1,0 +1,17 @@
+.ipynb_checkpoints/
+__pycache__/
+logs/
+labels/
+models/
+wandb/
+tests/
+ser_venv/
+outputs/
+logs_in_speech_folder
+env_variables.env
+uv-envs/
+=1.2.0
+BATCH_SIZE_USAGE.md
+LIGHTNET_EFFICIENCY_REPORT.md
+efficiency_analysis.png
+efficiency_analysis.py
